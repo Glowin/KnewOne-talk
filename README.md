@@ -1,8 +1,7 @@
-![KnewOne](http://knewone.com/assets/logo_white-ab887a3696b92551d2f7b71b8fd4bb83.png) KnewOne Talk
-
+![KnewOne](http://knewone.com/assets/logo_white-ab887a3696b92551d2f7b71b8fd4bb83.png)
 ---
  
-### 分享你的生活方式
+### KnewOne Talk · 分享你的生活方式
 
 ##### 1. 自我介绍和介绍自己的工作/擅长的领域，允许给自己打广告~
 
