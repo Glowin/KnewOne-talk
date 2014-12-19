@@ -1,7 +1,5 @@
 ![KnewOne](http://knewone.com/about/images/logo.png)
 
----
- 
 ### KnewOne Talk · 分享你的生活方式
 
 ---
