@@ -15,5 +15,5 @@
 ===
 
 - 可参考 [KnewOne 精选](http://knewone.com/explore/talks)
-- 可以向我提 Pull Request 提交回答，感谢：）
+- 可以向我提 Pull Request 提交回答，也可以回复[邮件](mailto:yibei.xiang2gmail.com)给我，感谢：）
 - 产品使用体验方面，请稍微写得详细一些，谢谢
